@@ -1,0 +1,21 @@
+body {
+  background-image: url("https://personales.unican.es/crespoj/senior/spac004.gif");
+  background-attachment: fixed;
+}
+.conteiner {
+  background-image: url("https://personales.unican.es/crespoj/senior/yllw001.gif");
+  border: 5px ridge #ddd;
+}
+.conteiner .list-no-ordenada {
+  list-style-type: none;
+  margin-left: -20px;
+}
+.conteiner li {
+  margin-bottom: 10px;
+}
+.conteiner .card {
+  width: 20px;
+}
+.conteiner .card:hover {
+  width: 200px;
+}
